@@ -1,0 +1,1 @@
+Down Gaps $IG -35%, $SSYS -20%, $INAP -19%, $LL -15%, $BWLD -11%, $WYNN -10%,  $CECO -8%, $SVU -8%

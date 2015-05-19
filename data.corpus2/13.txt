@@ -1,0 +1,4 @@
+US Market Trend
+$VIX @13.62
+$IG @63.1bps
+$HY @107.2%
